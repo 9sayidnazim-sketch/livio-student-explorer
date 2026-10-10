@@ -1,0 +1,3 @@
+Livio component integration
+
+React, TypeScript and Tailwind added using Vite. Components live in src/components/ui with shadcn aliases. The supplied GSAP timeline now describes the seven-step student journey. The supplied WebGL keycap orb uses Livio blue and study-interest actions that update the profile. Pause controls and reduced-motion handling are included. The existing student card, sample matching, save and compare remain. Matching remains illustrative and is not live AI. Run npm install and npm run dev; npm run build verifies TypeScript and creates dist. No university APIs, document verification or real applications are connected.
